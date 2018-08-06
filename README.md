@@ -1,4 +1,2 @@
 # Children Registration System
-Children Registration System for Senior Seminar College Project
-Android Application
-Connected with firebase
+An android application connected with google's firebase authentication and cloud database storage using android studio as a developing environment. 

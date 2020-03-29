@@ -1,23 +1,24 @@
-# Children Registration System
+# Children Registration System (CRS)
 - Release - 1.0 is available now
 
-# Welcome to Saad Pharmacy's Website
+# Welcome to CRS 
 
-- Saad Pharmacy's website is a college project open to all. The website is build with HTML, CSS, JavaScript and BootStrap.
+- Children Registration System is an android application and a college project open to all. The application is build with XML, and Java Programming Language.
 
 ## Getting Started
 
-- User can start with opening index.html file which is home page of the website and then navigate to other pages accordingly.
+- This is an android application and it can be installed by downloading its APK and installing it on an Android device.
 
-## Website Support / Prerequisites
+## Hardware Support
 
-Website is only computer based yet and is not ready for mobile and other devices. It is supported and Tested in:
-	1) Google Chrome
-	2) Mozilla Firefox
+This application is only android OS based and it does not yet support other OS. It is supported and Tested in:
+	1) Google Pixel 2
+	2) Samsung Galaxy
 
-## Artificial Intelligence
+## Database and Storage
 
-This project uses Dialogflow API for the virtual assistant. Dialogflow API is used for Natural Language Processing and more information is available on it's official website https://dialogflow.com
+CRS application uses Real Time Database and Cloud Firestorage of Google's Firebase.
+
 
 ## Deployment
 
